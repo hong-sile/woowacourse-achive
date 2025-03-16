@@ -3,10 +3,11 @@
 <br>
 
 ## Project
-**개발자 행사 동행 플랫폼 Kerdy~🐘**
+**개발자 행사 동행 플랫폼 Kerdy**
 
 [서비스 소개 블로그 글](https://velog.io/@kerdy-official/IT-%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4%EC%97%90-%EA%B4%80%EC%8B%AC%EC%9D%B4-%EC%9E%88%EB%8B%A4%EB%A9%B4)
-[Github Repository](https://github.com/woowacourse-teams/2023-emmsale)
+<br>
+[github repo](https://github.com/woowacourse-teams/2023-emmsale)
 
 <br>
 
@@ -18,10 +19,10 @@
 
 |Project|Repository|PR|
 |-------|----------|--|
-|Tomcat 구현하기|[repository](https://github.com/woowacourse/jwp-dashboard-http/tree/hong-sile)|[1,2단계 PR](https://github.com/woowacourse/jwp-dashboard-http/pull/389)<br>[3,4단계 PR](https://github.com/woowacourse/jwp-dashboard-http/pull/479)|
-|@MVC 구현하기|[repository](https://github.com/woowacourse/jwp-dashboard-mvc/tree/hong-sile)|[1단계 PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/415)<br>[2단계 PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/509)<br>[3단계 PR](https://github.com/woowacourse/jwp-dashboard-mvc/pull/629)|
-|JDBC 라이브러리 구현하기|[repository](https://github.com/woowacourse/jwp-dashboard-jdbc/tree/hong-sile)|[1단계 PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/312)<br>[2단계 PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/408)<br>[3단계 PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/500)<br>[4단계 PR](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/601)|
-|레거시 코드 리팩터링|[repository](https://github.com/woowacourse/jwp-refactoring/tree/hong-sile)|[1단계 PR](https://github.com/woowacourse/jwp-refactoring/pull/523)<br>[2단계 PR](https://github.com/woowacourse/jwp-refactoring/pull/637)<br>[3단계 PR](https://github.com/woowacourse/jwp-refactoring/pull/753)<br>[4단계 PR](https://github.com/woowacourse/jwp-refactoring/pull/816)|
+|Tomcat 구현하기|[repository](https://github.com/woowacourse/jwp-dashboard-http/tree/hong-sile)|[1,2단계 PR](https://github.com/woowacourse/java-http/pull/318)<br>[3,4단계 PR](https://github.com/woowacourse/java-http/pull/406)|
+|@MVC 구현하기|[repository](https://github.com/woowacourse/jwp-dashboard-mvc/tree/hong-sile)|[1단계 PR](https://github.com/woowacourse/java-mvc/pull/410)<br>[2단계 PR](https://github.com/woowacourse/java-mvc/pull/500)<br>[3단계 PR](https://github.com/woowacourse/java-mvc/pull/620)|
+|JDBC 라이브러리 구현하기|[repository](https://github.com/woowacourse/jwp-dashboard-jdbc/tree/hong-sile)|[1단계 PR](https://github.com/woowacourse/java-jdbc/pull/270)<br>[2단계 PR](https://github.com/woowacourse/java-jdbc/pull/399)<br>[3단계 PR](https://github.com/woowacourse/java-jdbc/pull/497)<br>[4단계 PR](https://github.com/woowacourse/java-jdbc/pull/562)|
+|레거시 코드 리팩터링|[repository](https://github.com/woowacourse/jwp-refactoring/tree/hong-sile)|[1단계 PR](https://github.com/woowacourse/jwp-refactoring/pull/487)<br>[2단계 PR](https://github.com/woowacourse/jwp-refactoring/pull/573)<br>[3단계 PR](https://github.com/woowacourse/jwp-refactoring/pull/691)<br>[4단계 PR](https://github.com/woowacourse/jwp-refactoring/pull/779)|
 
 <br>
 
